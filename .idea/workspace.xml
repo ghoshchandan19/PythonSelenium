@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa6dbfc-2da7-4bed-8d9b-096a10828ec4" name="Default Changelist" comment="" />
+    <list default="true" id="2fa6dbfc-2da7-4bed-8d9b-096a10828ec4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BasicPython/Strings/stringsplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPython/Strings/stringsplit.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringsplit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="288">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -115,6 +117,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -164,54 +169,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicPython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicPython" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
-              <item name="package1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Python-Test-Automation-Framework-master/Python-Test-Automation-Framework-master" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -362,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="30" width="1346" height="688" extended-state="0" />
+    <frame x="15" y="30" width="1346" height="688" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24311927" />
@@ -376,7 +352,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32792792" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3289689" />
@@ -786,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringsplit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="288">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
         </state>
       </provider>
     </entry>

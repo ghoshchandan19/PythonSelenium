@@ -14,3 +14,18 @@ for x in l:
 s='durga software solutions hyderabad india'
 l=s.split(" ",3)
 print(l)
+
+#split from reverse direction
+s="durga software solutions hyderabad india"
+l=s.rsplit(" ",3)
+for x in l:
+    print(x)
+
+#join string with parameters
+l=['durga','software','solutions']
+s='-'.join(l)
+print(s)
+
+t=('durga','soft','solutions')
+s=':'.join(t)
+print(s)
