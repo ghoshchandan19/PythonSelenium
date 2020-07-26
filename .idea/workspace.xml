@@ -11,15 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringbasics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringfunction.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -46,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPython/Strings/StringConversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringprograms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-557740515/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86258">
-              <caret line="5080" column="18" selection-start-line="5080" selection-start-column="8" selection-end-line="5080" selection-end-column="18" />
+            <state relative-caret-position="-63">
+              <caret line="5091" column="15" lean-forward="true" selection-start-line="5091" selection-start-column="15" selection-end-line="5091" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -165,6 +165,7 @@
         <option value="$PROJECT_DIR$/BasicPython/Strings/StringOperators.py" />
         <option value="$PROJECT_DIR$/BasicPython/Strings/stringsplit.py" />
         <option value="$PROJECT_DIR$/BasicPython/Strings/StringConversion.py" />
+        <option value="$PROJECT_DIR$/BasicPython/Strings/stringprograms.py" />
       </list>
     </option>
   </component>
@@ -228,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StringConversion">
+  <component name="RunManager" selected="Python.stringprograms">
     <configuration name="StringConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="excelreading" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="stringprograms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/package1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicPython/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package1/excelreading.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicPython/Strings/stringprograms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,11 +337,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stringprograms" />
         <item itemvalue="Python.StringConversion" />
         <item itemvalue="Python.stringsplit" />
         <item itemvalue="Python.StringOperators" />
         <item itemvalue="Python.writeexcel" />
-        <item itemvalue="Python.excelreading" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +360,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="30" width="1346" height="688" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24311927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -393,13 +393,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BasicPython/Basic/relationaloperator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicPython/Conditional Statements/del.py" />
     <entry file="file://$PROJECT_DIR$/BasicPython/Conditional Statements/if condition.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -766,13 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-557740515/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86258">
-          <caret line="5080" column="18" selection-start-line="5080" selection-start-column="8" selection-end-line="5080" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringsplit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -780,10 +766,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-557740515/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="5091" column="15" lean-forward="true" selection-start-line="5091" selection-start-column="15" selection-end-line="5091" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BasicPython/Strings/StringConversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringprograms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
