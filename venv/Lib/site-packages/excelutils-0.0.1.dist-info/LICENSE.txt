@@ -1,0 +1,1 @@
+This python module can only be used for development and regular programming purpose only. Using any of it's functionalities in production is strictly prohibited.

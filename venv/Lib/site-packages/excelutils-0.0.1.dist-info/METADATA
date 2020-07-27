@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: excelutils
+Version: 0.0.1
+Summary: This package is helpful for performing various arithmetic operations.
+Home-page: https://github.com/SrinivasChoudhury/excelutils
+Author: Srinivas Choudhury
+Author-email: hi@srinivaschoudhury.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+This package is helpful for performing various arithmetic operations.
+
+
