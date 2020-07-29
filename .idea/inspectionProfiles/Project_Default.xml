@@ -8,6 +8,7 @@
           <option value="package1.LaunchBrowser.dbconnection" />
           <option value="package1.LaunchBrowser.EdgeDriverManager" />
           <option value="webdriver_manager.microsoft.*" />
+          <option value="math_func" />
         </list>
       </option>
     </inspection_tool>
