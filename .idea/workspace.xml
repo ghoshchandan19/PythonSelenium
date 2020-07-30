@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa6dbfc-2da7-4bed-8d9b-096a10828ec4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicPython/Tuples/tuplearihematicoperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPython/Tuples/tuplearihematicoperations.py" afterDir="false" />
-    </list>
+    <list default="true" id="2fa6dbfc-2da7-4bed-8d9b-096a10828ec4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,27 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytesttutorial/test_pytestdemo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package1/draganddrop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package1/doubleclick.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplecreation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="357">
               <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
@@ -58,17 +34,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplearihematicoperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="680">
               <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplemethods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasicPython/Sets/setcraetion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-557740515/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="4373" column="8" selection-start-line="4373" selection-start-column="8" selection-end-line="4373" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -131,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BasicPython/Conditional Statements/if example3.py" />
         <option value="$PROJECT_DIR$/BasicPython/Conditional Statements/if example 4.py" />
         <option value="$PROJECT_DIR$/BasicPython/Conditional Statements/for example1.py" />
         <option value="$PROJECT_DIR$/BasicPython/Conditional Statements/for example2.py" />
@@ -182,6 +175,7 @@
         <option value="$PROJECT_DIR$/BasicPython/Tuples/tuplearihematicoperations.py" />
         <option value="$PROJECT_DIR$/BasicPython/Tuples/tuplecomprehension.py" />
         <option value="$PROJECT_DIR$/BasicPython/Tuples/tuplemethods.py" />
+        <option value="$PROJECT_DIR$/BasicPython/Sets/setcraetion.py" />
       </list>
     </option>
   </component>
@@ -215,6 +209,12 @@
               <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
               <item name="BasicPython" type="462c0819:PsiDirectoryNode" />
               <item name="Lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Sets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
@@ -261,7 +261,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuplemethods">
+  <component name="RunManager" selected="Python.setcraetion">
+    <configuration name="setcraetion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicPython/Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicPython/Sets/setcraetion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tuplearihematicoperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,21 +346,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_pytestdemo1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttutorial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytesttutorial/test_pytestdemo1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in test_pytestdemo2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -356,19 +362,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in test_pytestdemo1.py" />
-      <item itemvalue="Python tests.pytest in test_pytestdemo2.py" />
       <item itemvalue="Python.tuplecreation" />
       <item itemvalue="Python.tuplearihematicoperations" />
       <item itemvalue="Python.tuplemethods" />
+      <item itemvalue="Python tests.pytest in test_pytestdemo2.py" />
+      <item itemvalue="Python.setcraetion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.setcraetion" />
         <item itemvalue="Python.tuplemethods" />
         <item itemvalue="Python.tuplearihematicoperations" />
         <item itemvalue="Python.tuplecreation" />
         <item itemvalue="Python tests.pytest in test_pytestdemo2.py" />
-        <item itemvalue="Python tests.pytest in test_pytestdemo1.py" />
       </list>
     </recent_temporary>
   </component>
@@ -453,13 +459,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package1/links.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package1/WindowHandles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -674,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-557740515/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4182">
-          <caret line="246" column="4" selection-start-line="246" selection-start-column="4" selection-end-line="246" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/webdriver_manager/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -779,6 +771,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplecreation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplearihematicoperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package1/ExcelUtils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -813,24 +819,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplecreation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplearihematicoperations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicPython/Tuples/tuplemethods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-557740515/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="4373" column="8" selection-start-line="4373" selection-start-column="8" selection-end-line="4373" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicPython/Sets/setcraetion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
         </state>
       </provider>
     </entry>
