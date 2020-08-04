@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa6dbfc-2da7-4bed-8d9b-096a10828ec4" name="Default Changelist" comment="" />
+    <list default="true" id="2fa6dbfc-2da7-4bed-8d9b-096a10828ec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonOops/GarbageCollections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOops/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOops/class.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,74 +15,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicPython/Dictionary/createdictionary.py">
+        <entry file="file://$PROJECT_DIR$/PythonOops/class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="51">
+              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonOops/decorators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonOops/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonOops/class.py">
+        <entry file="file://$PROJECT_DIR$/Test_Cases/TestCases_OrangeHrm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicPython/Dictionary/programsondictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5899">
-              <caret line="350" column="10" selection-start-line="350" selection-start-column="10" selection-end-line="350" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package1/Dropdown.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="5" column="58" selection-end-line="5" selection-end-column="58" />
+            <state relative-caret-position="374">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/HtmlTestRunner/runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1633">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package1/doubleclick.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonOops/GarbageCollections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/weakref.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -117,8 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package1/LaunchBrowser.py" />
-        <option value="$PROJECT_DIR$/package1/navigationcommands.py" />
         <option value="$PROJECT_DIR$/package1/conditionalcommands.py" />
         <option value="$PROJECT_DIR$/package1/implicitwait.py" />
         <option value="$PROJECT_DIR$/package1/test.py" />
@@ -167,7 +159,9 @@
         <option value="$PROJECT_DIR$/BasicPython/Dictionary/programsondictionary.py" />
         <option value="$PROJECT_DIR$/BasicPython/Dictionary/createdictionary.py" />
         <option value="$PROJECT_DIR$/PythonOops/decorators.py" />
+        <option value="$PROJECT_DIR$/PythonOops/GarbageCollections.py" />
         <option value="$PROJECT_DIR$/PythonOops/class.py" />
+        <option value="$PROJECT_DIR$/Test_Cases/TestCases_OrangeHrm.py" />
       </list>
     </option>
   </component>
@@ -183,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,18 +188,27 @@
             <path>
               <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
-              <item name="pytesttutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
               <item name="PythonOops" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +234,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class">
+  <component name="RunManager" selected="Python tests.pytest for TestCases_OrangeHrm.OrangeHrmTest">
+    <configuration name="GarbageCollections" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOops/GarbageCollections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,27 +269,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOops/class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="createdictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SeleniumPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicPython/Dictionary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicPython/Dictionary/createdictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,62 +298,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="programsondictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicPython/Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Cases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicPython/Dictionary/programsondictionary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases_OrangeHrm.OrangeHrmTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="set programs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest.test_homePageTitle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicPython/Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Cases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicPython/Sets/set programs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases_OrangeHrm.OrangeHrmTest.test_homePageTitle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.set programs" />
-      <item itemvalue="Python.createdictionary" />
-      <item itemvalue="Python.programsondictionary" />
       <item itemvalue="Python.decorators" />
       <item itemvalue="Python.class" />
+      <item itemvalue="Python.GarbageCollections" />
+      <item itemvalue="Python tests.pytest for TestCases_OrangeHrm.OrangeHrmTest" />
+      <item itemvalue="Python tests.pytest for TestCases_OrangeHrm.OrangeHrmTest.test_homePageTitle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for TestCases_OrangeHrm.OrangeHrmTest" />
+        <item itemvalue="Python tests.pytest for TestCases_OrangeHrm.OrangeHrmTest.test_homePageTitle" />
+        <item itemvalue="Python.GarbageCollections" />
         <item itemvalue="Python.class" />
         <item itemvalue="Python.decorators" />
-        <item itemvalue="Python.programsondictionary" />
-        <item itemvalue="Python.createdictionary" />
-        <item itemvalue="Python.set programs" />
       </list>
     </recent_temporary>
   </component>
@@ -367,24 +359,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_math_func_py - 2020.07.28 at 00h 37m 27s.xml">
-      <configuration name="pytest in test_math_func.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_math_func_py - 2020.07.28 at 00h 38m 58s.xml">
-      <configuration name="pytest in test_math_func.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_math_func_test_add - 2020.07.28 at 00h 40m 09s.xml">
-      <configuration name="pytest for test_math_func.test_add" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytestdemo1_py - 2020.07.28 at 08h 34m 18s.xml">
-      <configuration name="pytest in test_pytestdemo1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytestdemo1_py - 2020.07.28 at 08h 35m 16s.xml">
-      <configuration name="pytest in test_pytestdemo1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytestdemo2_py - 2020.07.28 at 08h 37m 22s.xml">
-      <configuration name="pytest in test_pytestdemo2.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_pytestdemo2_py - 2020.07.28 at 08h 37m 41s.xml">
       <configuration name="pytest in test_pytestdemo2.py" configurationId="tests" />
     </history-entry>
@@ -397,22 +371,41 @@
     <history-entry file="pytest_in_test_pytestdemo2_py - 2020.07.28 at 08h 38m 36s.xml">
       <configuration name="pytest in test_pytestdemo2.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_TestCases_OrangeHrm_OrangeHrmTest - 2020.08.04 at 18h 06m 38s.xml">
+      <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestCases_OrangeHrm_OrangeHrmTest_test_homePageTitle - 2020.08.04 at 18h 07m 40s.xml">
+      <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest.test_homePageTitle" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestCases_OrangeHrm_OrangeHrmTest - 2020.08.04 at 18h 08m 25s.xml">
+      <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestCases_OrangeHrm_OrangeHrmTest - 2020.08.04 at 18h 09m 20s.xml">
+      <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestCases_OrangeHrm_OrangeHrmTest - 2020.08.04 at 18h 09m 57s.xml">
+      <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_TestCases_OrangeHrm_OrangeHrmTest - 2020.08.04 at 18h 13m 32s.xml">
+      <configuration name="pytest for TestCases_OrangeHrm.OrangeHrmTest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="30" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24311927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923548" visible="true" weight="0.32792792" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923548" weight="0.32792792" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32792792" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32792792" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.50076455" side_tool="true" weight="0.32792792" />
@@ -429,64 +422,60 @@
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOops/GarbageCollections.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BasicPython/Strings/StringOperators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringsplit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicPython/Strings/StringConversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/worksheet/worksheet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2822">
-          <caret line="215" column="8" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/cell/cell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3366">
-          <caret line="213" column="8" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="8" />
-          <folding>
-            <element signature="e#359#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/workbook/workbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#37#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package1/dbconnection.py" />
     <entry file="file://$PROJECT_DIR$/BasicPython/Strings/stringprograms.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -603,16 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package1/doubleclick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -739,10 +718,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PythonOops/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonOops/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BasicPython/Dictionary/programsondictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -786,20 +775,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonOops/decorators.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/weakref.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonOops/GarbageCollections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonOops/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonOops/class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package1/doubleclick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/HtmlTestRunner/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/HtmlTestRunner/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1633">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reports/TestResults___main__.OrangeHrmTest_2020-08-04_18-18-03.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Cases/TestCases_OrangeHrm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
