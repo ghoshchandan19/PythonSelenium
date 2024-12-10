@@ -1,0 +1,50 @@
+name: Test Automation Pipeline
+
+# Run the pipeline on push or pull request
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+
+    steps:
+    # Step 1: Check out the code
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    # Step 4: Run tests
+    - name: Run tests
+      run: |
+        pytest --junitxml=test-results.xml --cov=.  # Example using pytest
+
+    # Step 5: Upload test results (optional)
+    - name: Upload test results
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-results
+        path: test-results.xml
+
+    # Step 6: Upload code coverage (optional)
+    - name: Upload coverage report
+      uses: actions/upload-artifact@v3
+      with:
+        name: coverage-report
+        path: htmlcov/  # Adjust path if using a different tool
